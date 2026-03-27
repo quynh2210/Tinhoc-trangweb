@@ -1,0 +1,32 @@
+# Gamified Task Management Web App
+- [x] 1. Project Planning & Setup
+  - [x] Create implementation plan
+  - [x] Setup base project structure (HTML, CSS, JS folders)
+  - [x] Setup Firebase configuration
+  - [x] Setup CSS tokens (variables) & basic layout
+- [x] 2. Core Utilities
+  - [x] Audio API utility for sounds
+  - [x] Vibration API utility for haptics
+- [x] 3. Onboarding & Authentication
+  - [x] Onboarding Page UI (Introduction)
+  - [x] Register & Login Page UI & Logic
+  - [x] Authentication state listener & routing
+- [x] 4. Main App Shell layout
+  - [x] Fixed left sidebar for Desktop & Bottom navigation bar for Mobile
+- [x] 5. Home Page & Task/Quest System
+  - [x] Task and Quest creation & Firestore sync
+  - [x] Task list rendering (real-time)
+  - [x] Task completion & EXP update logic
+- [x] 6. Gamification System
+  - [x] Streak calculation and visualization
+  - [x] EXP, levels, and user progression
+  - [x] Settings & Theme Shop (unlocking via EXP/Streak)
+- [x] 7. Social Features
+  - [x] Friends list & requests
+  - [x] Buddy Streaks
+  - [x] Nudge Notifications
+- [x] 8. Library & Extra Features
+  - [x] Quote Engine (Fetch API, Save/Unsave)
+  - [x] Home Screen Quote Widget (Responsive design, centered stats)
+  - [x] Library View (Switch between Quotes/Diary, PIN logic)
+  - [x] Diary System (Editor, Locking, Categorization)
